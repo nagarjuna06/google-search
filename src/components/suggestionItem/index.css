@@ -1,0 +1,12 @@
+.arrow-img{
+    width: 20px;
+    cursor: pointer;
+}
+.item-container{
+    display: flex;
+    justify-content: space-between;
+    padding: 5px 10px;
+    color: black;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
